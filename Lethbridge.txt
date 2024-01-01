@@ -1,0 +1,12 @@
+
+          Lethbridge Data
+
+Total Votes: 56943
+
+Party         | Votes       | Percentage Votes
+Liberal         10388         18.24         
+Conservative    32223         56.59         
+NDP             11495         20.19         
+Green Party     1435          2.52          
+Other Party     887           1.56          
+Spoiled Votes   515           0.90          

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Voting.java": [
+      {
+        "id": "ff0bed49-a33b-4abf-98f1-1c925a4507fe",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "Voting.txt": [
+      {
+        "id": "16b08fbd-25ce-4cb6-a71d-5ee7fb6b66ca",
+        "line": 2,
+        "version": 95,
+        "index": 101
+      }
+    ]
+  }
+}

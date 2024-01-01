@@ -1,0 +1,12 @@
+
+          Yellowhead Data
+
+Total Votes: 52525
+
+Party         | Votes       | Percentage Votes
+Liberal         7425          14.14         
+Conservative    37542         71.47         
+NDP             4743          9.03          
+Green Party     1551          2.95          
+Other Party     795           1.51          
+Spoiled Votes   469           0.89          

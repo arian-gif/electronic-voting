@@ -1,0 +1,12 @@
+
+            Lakeland Data
+
+Total Votes: 54779
+
+Party         | Votes       | Percentage Votes
+Liberal         7422          13.55         
+Conservative    39512         72.13         
+NDP             5490          10.02         
+Green Party     1232          2.25          
+Other Party     585           1.07          
+Spoiled Votes   538           0.98          
